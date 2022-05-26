@@ -1,0 +1,12 @@
+body{
+    background-color: #008000;
+    color: #ffffff;
+}
+
+#sol1, #sol2{
+    background-color: #9e9ee3;
+}
+
+input{
+    margin-bottom: 10px;
+}
